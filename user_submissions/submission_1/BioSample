@@ -1,1 +1,1 @@
-SELECT 1 as result_col FROM `dsp-data-ingest.mdemo4.BioSample`
+SELECT 1 as new_col FROM `dsp-data-ingest.mdemo4.BioSample`
