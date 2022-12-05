@@ -1,1 +1,1 @@
-SELECT * FROM `{project}.{schema}.{table}`
+SELECT 1 as result_col FROM `{project}.{schema}.{table}`
