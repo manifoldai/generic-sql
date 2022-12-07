@@ -1,1 +1,1 @@
-select * from `{project}`.`{schema}`.`BioSample`
+select Donor_id from `{project}`.`{schema}`.`BioSample`
