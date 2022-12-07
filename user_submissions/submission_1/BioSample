@@ -1,1 +1,1 @@
-SELECT  BioSample_id as t_id  `{project}`.`{schema}`.`{table}`
+SELECT  BioSample_id as t_id  from `{project}`.`{schema}`.`{table}`
