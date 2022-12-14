@@ -1,1 +1,1 @@
-SELECT  BioSample_id as t_id  from `{project}`.`{schema}`.`{table}`
+SELECT  1 as dummy_col_yo
