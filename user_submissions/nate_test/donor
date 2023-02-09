@@ -1,0 +1,1 @@
+SELECT subject_id AS donor_id FROM `datarepo-dev-07aee6f3.datarepo_TEST_NC_MF_1.subject`

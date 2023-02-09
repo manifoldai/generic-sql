@@ -1,0 +1,1 @@
+SELECT subject_id AS donor_id FROM `{project}.{schema}.{table}`
