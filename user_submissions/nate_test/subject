@@ -1,1 +1,1 @@
-SELECT subject_id AS donor_id FROM `datarepo-dev-2038599b.datarepo_Example_TDR_Dataset_1.subject`
+SELECT subject_id AS donor_id, consent FROM `datarepo-dev-2038599b.datarepo_Example_TDR_Dataset_1.subject`
