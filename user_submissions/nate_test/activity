@@ -1,1 +1,1 @@
-SELECT cram AS file_ref FROM `datarepo-dev-2038599b.datarepo_Example_TDR_Dataset_1.sequencing`
+SELECT cram AS file_ref FROM `{project}.{schema}.sequencing`
