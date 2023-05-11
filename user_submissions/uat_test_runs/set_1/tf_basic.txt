@@ -1,1 +1,0 @@
-SELECT data_type_id AS tf_basic_id FROM `{project}.{schema}.data_types`
