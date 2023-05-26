@@ -1,1 +1,1 @@
-SELECT * from file
+SELECT * from `{project}.{schema}.file`
