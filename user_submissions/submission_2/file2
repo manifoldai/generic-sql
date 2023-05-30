@@ -1,1 +1,1 @@
-SELECT * from `{project}.{schema}.file`
+SELECT datamodality, donor_id from `{project}.{schema}.file`
