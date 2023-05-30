@@ -1,1 +1,0 @@
-SELECT datamodality, donor_id from `{project}.{schema}.file`
